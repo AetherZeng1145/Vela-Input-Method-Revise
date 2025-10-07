@@ -28,3 +28,5 @@
 这里感谢NEORUAA的开源！非常感谢
 
 该版本为圆屏全键版本，其他版本请去对应的分支查看！
+
+更多信息请至这里查看[传送门](https://github.com/NEORUAA/Vela_input_method)
